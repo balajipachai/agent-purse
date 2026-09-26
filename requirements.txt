@@ -1,0 +1,6 @@
+fastapi==0.141.1
+uvicorn[standard]==0.54.0
+x402[evm,httpx]==2.24.0
+anthropic==1.8.0
+python-dotenv==1.2.3
+pytest==9.1.1
